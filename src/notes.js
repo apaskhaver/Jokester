@@ -1,27 +1,27 @@
 const notes = [
     {
       key: 1,
-      title: "Delegation",
+      title: "Doctor's Orders",
       content:
-        "Q. How many programmers does it take to change a light bulb? A. None – It’s a hardware problem"
+        "A man goes to a doctor. The doctor tells him, \"You're sick.\"\n\nThe man says, \"I want a second opinion.\"\n\n\"All right,\" says the doctor. \"You're ugly, too.\""
     },
     {
       key: 2,
-      title: "Loops",
+      title: "Kingly Code",
       content:
-        "How to keep a programmer in the shower forever. Show him the shampoo bottle instructions: Lather. Rinse. Repeat."
+        "How does a king run a program?\n\nHe executes it."
     },
     {
       key: 3,
-      title: "Arrays",
+      title: "Descartes",
       content:
-        "Q. Why did the programmer quit his job? A. Because he didn't get arrays."
+        "Descartes walks into a bar. The bartender asks him, \"Would you like a drink?\"\n\n\"I think not,\" says Descartes, and promptly disappears."
     },
     {
       key: 4,
-      title: "Hardware vs. Software",
+      title: "Bytes",
       content:
-        "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+        "Eight bytes walk into a bar. The bartender asks, \"Can I get you anything?\"\n\n\"Yeah,\" reply the bytes. \"Make us a double.\""
     },
     {
         key: 5,
